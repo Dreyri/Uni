@@ -1,0 +1,3 @@
+[submodule "ws1819/bildverarbeitung"]
+	path = ws1819/bildverarbeitung
+	url = https://github.com/Dreyri/bildverarbeitung.git

@@ -1,3 +1,6 @@
 [submodule "ws1819/bildverarbeitung"]
 	path = ws1819/bildverarbeitung
 	url = https://github.com/Dreyri/bildverarbeitung.git
+[submodule "ws1819/kryptologie"]
+	path = ws1819/kryptologie
+	url = https://github.com/Dreyri/kryptologie.git

@@ -7,3 +7,6 @@
 [submodule "ws1819/sw_ergonomie"]
 	path = ws1819/sw_ergonomie
 	url = https://github.com/Dreyri/sw_ergonomie.git
+[submodule "ws1819/dbwt"]
+	path = ws1819/dbwt
+	url = https://github.com/Dreyri/dbwt.git

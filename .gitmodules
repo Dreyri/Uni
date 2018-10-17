@@ -4,3 +4,6 @@
 [submodule "ws1819/kryptologie"]
 	path = ws1819/kryptologie
 	url = https://github.com/Dreyri/kryptologie.git
+[submodule "ws1819/sw_ergonomie"]
+	path = ws1819/sw_ergonomie
+	url = https://github.com/Dreyri/sw_ergonomie.git

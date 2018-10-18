@@ -10,3 +10,6 @@
 [submodule "ws1819/dbwt"]
 	path = ws1819/dbwt
 	url = https://github.com/Dreyri/dbwt.git
+[submodule "ws1819/vrar"]
+	path = ws1819/vrar
+	url = https://github.com/Dreyri/vrar.git
